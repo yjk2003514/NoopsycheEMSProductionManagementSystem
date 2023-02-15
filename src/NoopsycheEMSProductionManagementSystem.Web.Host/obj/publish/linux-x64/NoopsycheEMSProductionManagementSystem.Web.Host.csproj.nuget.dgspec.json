@@ -1,0 +1,434 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Web.Host\\NoopsycheEMSProductionManagementSystem.Web.Host.csproj": {}
+  },
+  "projects": {
+    "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Application\\NoopsycheEMSProductionManagementSystem.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Application\\NoopsycheEMSProductionManagementSystem.Application.csproj",
+        "projectName": "NoopsycheEMSProductionManagementSystem.Application",
+        "projectPath": "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Application\\NoopsycheEMSProductionManagementSystem.Application.csproj",
+        "packagesPath": "C:\\Users\\闫健康\\.nuget\\packages\\",
+        "outputPath": "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\闫健康\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Core\\NoopsycheEMSProductionManagementSystem.Core.csproj": {
+                "projectPath": "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Core\\NoopsycheEMSProductionManagementSystem.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Core\\NoopsycheEMSProductionManagementSystem.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Core\\NoopsycheEMSProductionManagementSystem.Core.csproj",
+        "projectName": "NoopsycheEMSProductionManagementSystem.Core",
+        "projectPath": "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Core\\NoopsycheEMSProductionManagementSystem.Core.csproj",
+        "packagesPath": "C:\\Users\\闫健康\\.nuget\\packages\\",
+        "outputPath": "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\闫健康\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Abp.AutoMapper": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "Abp.ZeroCore.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "Castle.Windsor.MsDependencyInjection": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.EntityFrameworkCore\\NoopsycheEMSProductionManagementSystem.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.EntityFrameworkCore\\NoopsycheEMSProductionManagementSystem.EntityFrameworkCore.csproj",
+        "projectName": "NoopsycheEMSProductionManagementSystem.EntityFrameworkCore",
+        "projectPath": "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.EntityFrameworkCore\\NoopsycheEMSProductionManagementSystem.EntityFrameworkCore.csproj",
+        "packagesPath": "C:\\Users\\闫健康\\.nuget\\packages\\",
+        "outputPath": "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.EntityFrameworkCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\闫健康\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Core\\NoopsycheEMSProductionManagementSystem.Core.csproj": {
+                "projectPath": "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Core\\NoopsycheEMSProductionManagementSystem.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Web.Core\\NoopsycheEMSProductionManagementSystem.Web.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Web.Core\\NoopsycheEMSProductionManagementSystem.Web.Core.csproj",
+        "projectName": "NoopsycheEMSProductionManagementSystem.Web.Core",
+        "projectPath": "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Web.Core\\NoopsycheEMSProductionManagementSystem.Web.Core.csproj",
+        "packagesPath": "C:\\Users\\闫健康\\.nuget\\packages\\",
+        "outputPath": "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Web.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\闫健康\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Application\\NoopsycheEMSProductionManagementSystem.Application.csproj": {
+                "projectPath": "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Application\\NoopsycheEMSProductionManagementSystem.Application.csproj"
+              },
+              "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.EntityFrameworkCore\\NoopsycheEMSProductionManagementSystem.EntityFrameworkCore.csproj": {
+                "projectPath": "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.EntityFrameworkCore\\NoopsycheEMSProductionManagementSystem.EntityFrameworkCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Abp.AspNetCore": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "Abp.AspNetCore.SignalR": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "Abp.ZeroCore": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.1, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Web.Host\\NoopsycheEMSProductionManagementSystem.Web.Host.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Web.Host\\NoopsycheEMSProductionManagementSystem.Web.Host.csproj",
+        "projectName": "NoopsycheEMSProductionManagementSystem.Web.Host",
+        "projectPath": "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Web.Host\\NoopsycheEMSProductionManagementSystem.Web.Host.csproj",
+        "packagesPath": "C:\\Users\\闫健康\\.nuget\\packages\\",
+        "outputPath": "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Web.Host\\obj\\publish\\linux-x64\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\闫健康\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Web.Core\\NoopsycheEMSProductionManagementSystem.Web.Core.csproj": {
+                "projectPath": "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Web.Core\\NoopsycheEMSProductionManagementSystem.Web.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Abp.Castle.Log4Net": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.15.1, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+              "version": "[6.0.6, 6.0.6]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.6, 6.0.6]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
+              "version": "[6.0.6, 6.0.6]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

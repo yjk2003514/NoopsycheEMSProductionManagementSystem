@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "YjdHUSubhTSx/4FIFHCJJNqeC9UR1qpQ/8s4zJVaNOA=",
+  "Source": "NoopsycheEMSProductionManagementSystem.Web.Host",
+  "BasePath": "_content/NoopsycheEMSProductionManagementSystem.Web.Host",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NoopsycheEMSProductionManagementSystem.Web.Host\\wwwroot",
+      "Source": "NoopsycheEMSProductionManagementSystem.Web.Host",
+      "ContentRoot": "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Web.Host\\wwwroot\\",
+      "BasePath": "_content/NoopsycheEMSProductionManagementSystem.Web.Host",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Web.Host\\wwwroot\\swagger\\ui\\abp.js",
+      "SourceId": "NoopsycheEMSProductionManagementSystem.Web.Host",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Web.Host\\wwwroot\\",
+      "BasePath": "_content/NoopsycheEMSProductionManagementSystem.Web.Host",
+      "RelativePath": "swagger/ui/abp.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger\\ui\\abp.js"
+    },
+    {
+      "Identity": "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Web.Host\\wwwroot\\swagger\\ui\\abp.swagger.js",
+      "SourceId": "NoopsycheEMSProductionManagementSystem.Web.Host",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\1A我的代码\\7.3.0\\aspnet-core\\src\\NoopsycheEMSProductionManagementSystem.Web.Host\\wwwroot\\",
+      "BasePath": "_content/NoopsycheEMSProductionManagementSystem.Web.Host",
+      "RelativePath": "swagger/ui/abp.swagger.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger\\ui\\abp.swagger.js"
+    }
+  ]
+}

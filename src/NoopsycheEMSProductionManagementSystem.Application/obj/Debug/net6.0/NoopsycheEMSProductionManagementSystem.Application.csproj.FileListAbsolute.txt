@@ -1,0 +1,17 @@
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Application\bin\Debug\net6.0\NoopsycheEMSProductionManagementSystem.Application.deps.json
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Application\bin\Debug\net6.0\NoopsycheEMSProductionManagementSystem.Application.dll
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Application\bin\Debug\net6.0\NoopsycheEMSProductionManagementSystem.Application.pdb
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Application\bin\Debug\net6.0\NoopsycheEMSProductionManagementSystem.Application.xml
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Application\bin\Debug\net6.0\NoopsycheEMSProductionManagementSystem.Core.dll
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Application\bin\Debug\net6.0\NoopsycheEMSProductionManagementSystem.Core.pdb
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Application\obj\Debug\net6.0\NoopsycheEMSProductionManagementSystem.Application.csproj.AssemblyReference.cache
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Application\obj\Debug\net6.0\NoopsycheEMSProductionManagementSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Application\obj\Debug\net6.0\NoopsycheEMSProductionManagementSystem.Application.AssemblyInfoInputs.cache
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Application\obj\Debug\net6.0\NoopsycheEMSProductionManagementSystem.Application.AssemblyInfo.cs
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Application\obj\Debug\net6.0\NoopsycheEMSProductionManagementSystem.Application.csproj.CoreCompileInputs.cache
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Application\obj\Debug\net6.0\NoopsycheEMSProductionManagementSystem.Application.csproj.CopyComplete
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Application\obj\Debug\net6.0\NoopsycheEMSProductionManagementSystem.Application.dll
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Application\obj\Debug\net6.0\refint\NoopsycheEMSProductionManagementSystem.Application.dll
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Application\obj\Debug\net6.0\NoopsycheEMSProductionManagementSystem.Application.xml
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Application\obj\Debug\net6.0\NoopsycheEMSProductionManagementSystem.Application.pdb
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Application\obj\Debug\net6.0\ref\NoopsycheEMSProductionManagementSystem.Application.dll

@@ -1,0 +1,1296 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NoopsycheEMSProductionManagementSystem.Application</name>
+    </assembly>
+    <members>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTO.ElectricalMachineryTableJobNumber">
+            <summary>
+            电机表作业号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTO.ElectricalMachineryTableAxle">
+            <summary>
+            电机表轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTO.ElectricalMachineryTableNumModel">
+            <summary>
+            电机表型号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTO.ElectricalMachineryTableScanTheBarcode">
+            <summary>
+            电机表扫描条码
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTO.ElectricalMachineryTableDescribe">
+            <summary>
+            电机表描述
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTO.ElectricalMachineryTableMaterialCode">
+            <summary>
+            电机表物料编码
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTO.ElectricalMachineryTableMaterialDescription">
+            <summary>
+            电机表物料描述
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTO.ElectricalMachineryTableSerialNumber">
+            <summary>
+            电机表序列号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTO.ElectricalMachineryTableAssembler">
+            <summary>
+            电机表装配工
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTO.ElectricalMachineryTableDateTime">
+            <summary>
+            电机表日期
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTOCreate.ElectricalMachineryTableRobotnumber">
+            <summary>
+            电机表机器人序列号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTOCreate.ElectricalMachineryTableJobNumber">
+            <summary>
+            电机表作业号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTOCreate.ElectricalMachineryTableAxle">
+            <summary>
+            电机表轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTOCreate.ElectricalMachineryTableNumModel">
+            <summary>
+            电机表型号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTOCreate.ElectricalMachineryTableScanTheBarcode">
+            <summary>
+            电机表扫描条码
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTOCreate.ElectricalMachineryTableDescribe">
+            <summary>
+            电机表描述
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTOCreate.ElectricalMachineryTableMaterialCode">
+            <summary>
+            电机表物料编码
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTOCreate.ElectricalMachineryTableMaterialDescription">
+            <summary>
+            电机表物料描述
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTOCreate.ElectricalMachineryTableSerialNumber">
+            <summary>
+            电机表序列号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTOCreate.ElectricalMachineryTableAssembler">
+            <summary>
+            电机表装配工
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTOCreate.ElectricalMachineryTableDateTime">
+            <summary>
+            电机表日期
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTOMate.ElectricalMachineryTableRobotnumber">
+            <summary>
+            电机表机器人序列号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTOMate.ElectricalMachineryTableJobNumber">
+            <summary>
+            电机表作业号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTOMate.ElectricalMachineryTableAxle">
+            <summary>
+            电机表轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTOMate.ElectricalMachineryTableNumModel">
+            <summary>
+            电机表型号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTOMate.ElectricalMachineryTableScanTheBarcode">
+            <summary>
+            电机表扫描条码
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTOMate.ElectricalMachineryTableDescribe">
+            <summary>
+            电机表描述
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTOMate.ElectricalMachineryTableMaterialCode">
+            <summary>
+            电机表物料编码
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTOMate.ElectricalMachineryTableMaterialDescription">
+            <summary>
+            电机表物料描述
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTOMate.ElectricalMachineryTableSerialNumber">
+            <summary>
+            电机表序列号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTOMate.ElectricalMachineryTableAssembler">
+            <summary>
+            电机表装配工
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.ElectricalMachineryTableDTO.ElectricalMachineryTableAPJDTOMate.ElectricalMachineryTableDateTime">
+            <summary>
+            电机表日期
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTO.GearCaseTableJobNumber">
+            <summary>
+            齿轮箱表作业号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTO.GearCaseTableAxle">
+            <summary>
+            齿轮箱表轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTO.GearCaseTableNumModel">
+            <summary>
+            齿轮箱表型号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTO.GearCaseTableScanTheBarcode">
+            <summary>
+            齿轮箱表扫描条码
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTO.GearCaseTableDescribe">
+            <summary>
+            齿轮箱表描述
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTO.GearCaseTableMaterialCode">
+            <summary>
+            齿轮箱表物料编码
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTO.GearCaseTableMaterialDescription">
+            <summary>
+            齿轮箱表物料描述
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTO.GearCaseTableSerialNumber">
+            <summary>
+            齿轮箱表序列号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTO.GearCaseTableWorker">
+            <summary>
+            齿轮箱表装配工
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTO.GearCaseTableTime">
+            <summary>
+            齿轮箱表装配时间
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTO.GearCaseTableFillingStandard">
+            <summary>
+            齿轮箱表注油标准值
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTO.GearCaseTableActualValueOfOilInjection">
+            <summary>
+            齿轮箱表注油实际值
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTO.GearCaseTableDeviationValue">
+            <summary>
+            齿轮箱表偏差值
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTO.GearCaseTableUploadResults">
+            <summary>
+            齿轮箱表上传结果
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOCreate.GearCaseTableRobotnumber">
+            <summary>
+            齿轮箱表机器人序列号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOCreate.GearCaseTableJobNumber">
+            <summary>
+            齿轮箱表作业号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOCreate.GearCaseTableAxle">
+            <summary>
+            齿轮箱表轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOCreate.GearCaseTableNumModel">
+            <summary>
+            齿轮箱表型号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOCreate.GearCaseTableScanTheBarcode">
+            <summary>
+            齿轮箱表扫描条码
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOCreate.GearCaseTableDescribe">
+            <summary>
+            齿轮箱表描述
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOCreate.GearCaseTableMaterialCode">
+            <summary>
+            齿轮箱表物料编码
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOCreate.GearCaseTableMaterialDescription">
+            <summary>
+            齿轮箱表物料描述
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOCreate.GearCaseTableSerialNumber">
+            <summary>
+            齿轮箱表序列号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOCreate.GearCaseTableWorker">
+            <summary>
+            齿轮箱表装配工
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOCreate.GearCaseTableTime">
+            <summary>
+            齿轮箱表装配时间
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOCreate.GearCaseTableFillingStandard">
+            <summary>
+            齿轮箱表注油标准值
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOCreate.GearCaseTableActualValueOfOilInjection">
+            <summary>
+            齿轮箱表注油实际值
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOCreate.GearCaseTableDeviationValue">
+            <summary>
+            齿轮箱表偏差值
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOCreate.GearCaseTableUploadResults">
+            <summary>
+            齿轮箱表上传结果
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOMate.GearCaseTableRobotnumber">
+            <summary>
+            齿轮箱表机器人序列号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOMate.GearCaseTableJobNumber">
+            <summary>
+            齿轮箱表作业号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOMate.GearCaseTableAxle">
+            <summary>
+            齿轮箱表轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOMate.GearCaseTableNumModel">
+            <summary>
+            齿轮箱表型号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOMate.GearCaseTableScanTheBarcode">
+            <summary>
+            齿轮箱表扫描条码
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOMate.GearCaseTableDescribe">
+            <summary>
+            齿轮箱表描述
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOMate.GearCaseTableMaterialCode">
+            <summary>
+            齿轮箱表物料编码
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOMate.GearCaseTableMaterialDescription">
+            <summary>
+            齿轮箱表物料描述
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOMate.GearCaseTableSerialNumber">
+            <summary>
+            齿轮箱表序列号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOMate.GearCaseTableWorker">
+            <summary>
+            齿轮箱表装配工
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOMate.GearCaseTableTime">
+            <summary>
+            齿轮箱表装配时间
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOMate.GearCaseTableFillingStandard">
+            <summary>
+            齿轮箱表注油标准值
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOMate.GearCaseTableActualValueOfOilInjection">
+            <summary>
+            齿轮箱表注油实际值
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOMate.GearCaseTableDeviationValue">
+            <summary>
+            齿轮箱表偏差值
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.GearCaseTableDTO.GearCaseTableAPJDTOMate.GearCaseTableUploadResults">
+            <summary>
+            齿轮箱表上传结果
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTO.KeyComponentsAndTableNonStandardNumber">
+            <summary>
+            关键键采集非标作业号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTO.KeyComponentsAndTableScanTheBarcode">
+            <summary>
+            关键键采集扫描条码
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTO.KeyComponentsAndTableJobNumber">
+            <summary>
+            关键键采集作业号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTO.KeyComponentsAndTableAxle">
+            <summary>
+            关键键采集轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTO.KeyComponentsAndTableNumModel">
+            <summary>
+            关键键采集型号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTO.KeyComponentsAndTableNumber">
+            <summary>
+            关键键采集序列号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTO.KeyComponentsAndTableDescribe">
+            <summary>
+            关键键采集描述
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTO.KeyComponentsAndTableMaterialCode">
+            <summary>
+            关键键采集物料编码
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTO.KeyComponentsAndTableMaterialDescription">
+            <summary>
+            关键键采集物料描述
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTO.KeyComponentsAndTableAssembler">
+            <summary>
+            关键键采集装配工
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTO.KeyComponentsAndTableDateTime">
+            <summary>
+            关键键采集日期
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTOCreate.KeyComponentsAndTableRobotnumber">
+            <summary>
+            关键键采集机器人序列号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTOCreate.KeyComponentsAndTableNonStandardNumber">
+            <summary>
+            关键键采集非标作业号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTOCreate.KeyComponentsAndTableScanTheBarcode">
+            <summary>
+            关键键采集扫描条码
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTOCreate.KeyComponentsAndTableJobNumber">
+            <summary>
+            关键键采集作业号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTOCreate.KeyComponentsAndTableAxle">
+            <summary>
+            关键键采集轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTOCreate.KeyComponentsAndTableNumModel">
+            <summary>
+            关键键采集型号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTOCreate.KeyComponentsAndTableNumber">
+            <summary>
+            关键键采集序列号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTOCreate.KeyComponentsAndTableDescribe">
+            <summary>
+            关键键采集描述
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTOCreate.KeyComponentsAndTableMaterialCode">
+            <summary>
+            关键键采集物料编码
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTOCreate.KeyComponentsAndTableMaterialDescription">
+            <summary>
+            关键键采集物料描述
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTOCreate.KeyComponentsAndTableAssembler">
+            <summary>
+            关键键采集装配工
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTOCreate.KeyComponentsAndTableDateTime">
+            <summary>
+            关键键采集日期
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTOMate.KeyComponentsAndTableRobotnumber">
+            <summary>
+            关键键采集机器人序列号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTOMate.KeyComponentsAndTableNonStandardNumber">
+            <summary>
+            关键键采集非标作业号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTOMate.KeyComponentsAndTableScanTheBarcode">
+            <summary>
+            关键键采集扫描条码
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTOMate.KeyComponentsAndTableJobNumber">
+            <summary>
+            关键键采集作业号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTOMate.KeyComponentsAndTableAxle">
+            <summary>
+            关键键采集轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTOMate.KeyComponentsAndTableNumModel">
+            <summary>
+            关键键采集型号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTOMate.KeyComponentsAndTableNumber">
+            <summary>
+            关键键采集序列号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTOMate.KeyComponentsAndTableDescribe">
+            <summary>
+            关键键采集描述
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTOMate.KeyComponentsAndTableMaterialCode">
+            <summary>
+            关键键采集物料编码
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTOMate.KeyComponentsAndTableMaterialDescription">
+            <summary>
+            关键键采集物料描述
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTOMate.KeyComponentsAndTableAssembler">
+            <summary>
+            关键键采集装配工
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.KeyComponentsAndTableDTO.KeyComponentsAndTableAPJDTOMate.KeyComponentsAndTableDateTime">
+            <summary>
+            关键键采集日期
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableAPJDTO.TestOneTableJobNumber">
+            <summary>
+            测试工位一表作业号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableAPJDTO.TestOneTableModelNum">
+            <summary>
+            测试工位一型号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableAPJDTO.TestOneTableZero">
+            <summary>
+            零位测试工位
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableAPJDTO.TestOneTableLocation">
+            <summary>
+            定位精度测试工位
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableAPJDTO.TestOneTableA1Axlea">
+            <summary>
+            A1轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableAPJDTO.TestOneTableA2Axleb">
+            <summary>
+            A2轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableAPJDTO.TestOneTableA3Axlec">
+            <summary>
+            A3轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableAPJDTO.TestOneTableA4Axld">
+            <summary>
+            A4轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableAPJDTO.TestOneTableA5Axlee">
+            <summary>
+            A5轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableAPJDTO.TestOneTableA6Axlef">
+            <summary>
+            A6轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableCreateDto.TestOneTableJobNumber">
+            <summary>
+            测试工位一表作业号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableCreateDto.TestOneTableModelNum">
+            <summary>
+            测试工位一型号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableCreateDto.TestOneTableZero">
+            <summary>
+            零位测试工位
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableCreateDto.TestOneTableLocation">
+            <summary>
+            定位精度测试工位
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableCreateDto.TestOneTableA1Axlea">
+            <summary>
+            A1轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableCreateDto.TestOneTableA2Axleb">
+            <summary>
+            A2轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableCreateDto.TestOneTableA3Axlec">
+            <summary>
+            A3轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableCreateDto.TestOneTableA4Axld">
+            <summary>
+            A4轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableCreateDto.TestOneTableA5Axlee">
+            <summary>
+            A5轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableCreateDto.TestOneTableA6Axlef">
+            <summary>
+            A6轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableMateDto.TestOneTableNumber">
+            <summary>
+            测试工位一表机器人序列号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableMateDto.TestOneTableJobNumber">
+            <summary>
+            测试工位一表作业号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableMateDto.TestOneTableModelNum">
+            <summary>
+            测试工位一型号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableMateDto.TestOneTableZero">
+            <summary>
+            零位测试工位
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableMateDto.TestOneTableLocation">
+            <summary>
+            定位精度测试工位
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableMateDto.TestOneTableA1Axlea">
+            <summary>
+            A1轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableMateDto.TestOneTableA2Axleb">
+            <summary>
+            A2轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableMateDto.TestOneTableA3Axlec">
+            <summary>
+            A3轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableMateDto.TestOneTableA4Axld">
+            <summary>
+            A4轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableMateDto.TestOneTableA5Axlee">
+            <summary>
+            A5轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestOneTableDTO.TestOneTableMateDto.TestOneTableA6Axlef">
+            <summary>
+            A6轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestStationDTO.APJTestStationDto.TestStationName">
+            <summary>
+            测试工位名称
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestStationDTO.CreateAPJTestStationDto.Id">
+            <summary>
+            测试工位id自增
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestStationDTO.CreateAPJTestStationDto.TestStationCoding">
+            <summary>
+            测试工位编码
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestStationDTO.CreateAPJTestStationDto.TestStationName">
+            <summary>
+            测试工位名称
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestStationDTO.TestStationWDDTO.TestStationCoding">
+            <summary>
+            测试工位编码
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestStationDTO.TestStationWDDTO.TestStationName">
+            <summary>
+            测试工位名称
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableAPJDTO.TestTwoTableModelNum">
+            <summary>
+            测试工位二表型号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableAPJDTO.TestTwoTableInsulationInspection">
+            <summary>
+            测试工位二表绝缘检查
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableAPJDTO.TestTwoTableJobNumber">
+            <summary>
+            测试工位二表作业号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableAPJDTO.TestTwoTableDebugging">
+            <summary>
+            测试工位二表调试
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableAPJDTO.TestTwoTableRunningin">
+            <summary>
+            测试工位二表跑合
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableAPJDTO.TestTwoTableMaterialCode">
+            <summary>
+            测试工位二表物料编码
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableAPJDTO.TestTwoTableMaterialDescription">
+            <summary>
+            测试工位二表物料描述
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableAPJDTO.TestTwoTableAxle">
+            <summary>
+            测试工位二表轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableAPJDTO.TestTwoTableTheoreticalQuantity">
+            <summary>
+            测试工位二表理论数量
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableAPJDTO.TestTwoTableRealQuantity">
+            <summary>
+            测试工位二表实际数量
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableCreateDTO.TestTwoTableNumber">
+            <summary>
+            测试工位二表机器人序列号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableCreateDTO.TestTwoTableModelNum">
+            <summary>
+            测试工位二表型号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableCreateDTO.TestTwoTableInsulationInspection">
+            <summary>
+            测试工位二表绝缘检查
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableCreateDTO.TestTwoTableJobNumber">
+            <summary>
+            测试工位二表作业号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableCreateDTO.TestTwoTableDebugging">
+            <summary>
+            测试工位二表调试
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableCreateDTO.TestTwoTableRunningin">
+            <summary>
+            测试工位二表跑合
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableCreateDTO.TestTwoTableMaterialCode">
+            <summary>
+            测试工位二表物料编码
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableCreateDTO.TestTwoTableMaterialDescription">
+            <summary>
+            测试工位二表物料描述
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableCreateDTO.TestTwoTableAxle">
+            <summary>
+            测试工位二表轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableCreateDTO.TestTwoTableTheoreticalQuantity">
+            <summary>
+            测试工位二表理论数量
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableCreateDTO.TestTwoTableRealQuantity">
+            <summary>
+            测试工位二表实际数量
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableMateDTO.TestTwoTableModelNum">
+            <summary>
+            测试工位二表型号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableMateDTO.TestTwoTableInsulationInspection">
+            <summary>
+            测试工位二表绝缘检查
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableMateDTO.TestTwoTableJobNumber">
+            <summary>
+            测试工位二表作业号
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableMateDTO.TestTwoTableDebugging">
+            <summary>
+            测试工位二表调试
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableMateDTO.TestTwoTableRunningin">
+            <summary>
+            测试工位二表跑合
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableMateDTO.TestTwoTableMaterialCode">
+            <summary>
+            测试工位二表物料编码
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableMateDTO.TestTwoTableMaterialDescription">
+            <summary>
+            测试工位二表物料描述
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableMateDTO.TestTwoTableAxle">
+            <summary>
+            测试工位二表轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableMateDTO.TestTwoTableTheoreticalQuantity">
+            <summary>
+            测试工位二表理论数量
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.TestTwoTableDTO.TestTwoTableMateDTO.TestTwoTableRealQuantity">
+            <summary>
+            测试工位二表实际数量
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.WDTO.APJUserDto.MaterialAllocationTableDescribe">
+            <summary>
+            物料配置描述
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.WDTO.APJUserDto.MaterialAllocationTableCoding">
+            <summary>
+            物料配置编码
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.WDTO.APJUserDto.MaterialAllocationTableTab">
+            <summary>
+            物料配置页签
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.WDTO.APJUserDto.MaterialAllocationTableAxle">
+            <summary>
+            物料配置轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.WDTO.APJUserDto.MaterialAllocationTableStandard">
+            <summary>
+            物料配置注油标准值
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.WDTO.APJUserDto.MaterialAllocationTableDeviation">
+            <summary>
+            物料配置注油偏差值
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.WDTO.CreateAPJUserDto.MaterialAllocationTableDescribe">
+            <summary>
+            物料配置描述
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.WDTO.CreateAPJUserDto.MaterialAllocationTableCoding">
+            <summary>
+            物料配置编码
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.WDTO.CreateAPJUserDto.MaterialAllocationTableTab">
+            <summary>
+            物料配置页签
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.WDTO.CreateAPJUserDto.MaterialAllocationTableAxle">
+            <summary>
+            物料配置轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.WDTO.CreateAPJUserDto.MaterialAllocationTableStandard">
+            <summary>
+            物料配置注油标准值
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.WDTO.CreateAPJUserDto.MaterialAllocationTableDeviation">
+            <summary>
+            物料配置注油偏差值
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.WDTO.MaterialAllocationTableDTO.MaterialAllocationTableDescribe">
+            <summary>
+            物料配置描述
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.WDTO.MaterialAllocationTableDTO.MaterialAllocationTableCoding">
+            <summary>
+            物料配置编码
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.WDTO.MaterialAllocationTableDTO.MaterialAllocationTableTab">
+            <summary>
+            物料配置页签
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.WDTO.MaterialAllocationTableDTO.MaterialAllocationTableAxle">
+            <summary>
+            物料配置轴
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.WDTO.MaterialAllocationTableDTO.MaterialAllocationTableStandard">
+            <summary>
+            物料配置注油标准值
+            </summary>
+        </member>
+        <member name="P:NoopsycheEMSProductionManagementSystem.DTO.WDTO.MaterialAllocationTableDTO.MaterialAllocationTableDeviation">
+            <summary>
+            物料配置注油偏差值
+            </summary>
+        </member>
+        <member name="T:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames">
+            <summary>
+            Common mime types. 
+            </summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationXJavascript">
+            <summary>Used to denote the encoding necessary for files containing JavaScript source code. The alternative MIME type for this file type is text/javascript.</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.AudioL24">
+            <summary>24bit Linear PCM audio at 8-48kHz, 1-N channels; Defined in RFC 3190</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationXShockwaveFlash">
+            <summary>Adobe Flash files for example with the extension .swf</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationOctetStream">
+            <summary>Arbitrary binary data.[5] Generally speaking this type identifies files that are not associated with a specific application. Contrary to past assumptions by software packages such as Apache this is not a type that should be applied to unknown files. In such a case, a server or application should not indicate a content type, as it may be incorrect, but rather, should omit the type in order to allow the recipient to guess the type.[6]</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationAtomXml">
+            <summary>Atom feeds</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.TextCss">
+            <summary>Cascading Style Sheets; Defined in RFC 2318</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.TextCmd">
+            <summary>commands; subtype resident in Gecko browsers like Firefox 3.5</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.TextCsv">
+            <summary>Comma-separated values; Defined in RFC 4180</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationXDeb">
+            <summary>deb (file format), a software package format used by the Debian project</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.MultipartEncrypted">
+            <summary>Defined in RFC 1847</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.MultipartSigned">
+            <summary>Defined in RFC 1847</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.MessageHttp">
+            <summary>Defined in RFC 2616</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ModelExample">
+            <summary>Defined in RFC 4735</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationXDvi">
+            <summary>device-independent document in DVI format</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationXmlDtd">
+            <summary>DTD files; Defined by RFC 3023</summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationJavascript" -->
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationEcmascript">
+            <summary>ECMAScript/JavaScript; Defined in RFC 4329 (equivalent to application/javascript but with stricter processing rules)</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationEdifact">
+            <summary>EDI EDIFACT data; Defined in RFC 1767</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationEdiX12">
+            <summary>EDI X12 data; Defined in RFC 1767</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.MessagePartial">
+            <summary>Email; Defined in RFC 2045 and RFC 2046</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.MessageRfc822">
+            <summary>Email; EML files, MIME files, MHT files, MHTML files; Defined in RFC 2045 and RFC 2046</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.TextXml">
+            <summary>Extensible Markup Language; Defined in RFC 3023</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.VideoXFlv">
+            <summary>Flash video (FLV files)</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ImageGif">
+            <summary>GIF image; Defined in RFC 2045 and RFC 2046</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.TextXGwtRpc">
+            <summary>GoogleWebToolkit data</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationXGzip">
+            <summary>Gzip</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.TextHtml">
+            <summary>HTML; Defined in RFC 2854</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ImageVndMicrosoftIcon">
+            <summary>ICO image; Registered[9]</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ModelIges">
+            <summary>IGS files, IGES files; Defined in RFC 2077</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.MessageImdnXml">
+            <summary>IMDN Instant Message Disposition Notification; Defined in RFC 5438</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationJson">
+            <summary>JavaScript Object Notation JSON; Defined in RFC 4627</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationJsonPatch">
+            <summary>JavaScript Object Notation (JSON) Patch; Defined in RFC 6902</summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.TextJavascript" -->
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ImagePjpeg">
+            <summary>JPEG JFIF image; Associated with Internet Explorer; Listed in ms775147(v=vs.85) - Progressive JPEG, initiated before global browser support for progressive JPEGs (Microsoft and Firefox).</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ImageJpeg">
+            <summary>JPEG JFIF image; Defined in RFC 2045 and RFC 2046</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.TextXJqueryTmpl">
+            <summary>jQuery template data</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationVndGoogleEarthKmlXml">
+            <summary>KML files (e.g. for Google Earth)</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationXLatex">
+            <summary>LaTeX files</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.VideoXMatroska">
+            <summary>Matroska open media format</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationVndOpenxmlformatsOfficedocumentSpreadsheetmlSheet">
+            <summary>Microsoft Excel 2007 files</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationVndMsExcel">
+            <summary>Microsoft Excel files</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationVndOpenxmlformatsOfficedocumentPresentationmlPresentation">
+            <summary>Microsoft Powerpoint 2007 files</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationVndMsPowerpoint">
+            <summary>Microsoft Powerpoint files</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationVndOpenxmlformatsOfficedocumentWordprocessingmlDocument">
+            <summary>Microsoft Word 2007 files</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationMsword">
+            <summary>Microsoft Word files[15]</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.MultipartAlternative">
+            <summary>MIME Email; Defined in RFC 2045 and RFC 2046</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.MultipartMixed">
+            <summary>MIME Email; Defined in RFC 2045 and RFC 2046</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.MultipartRelated">
+            <summary>MIME Email; Defined in RFC 2387 and used by MHTML (HTML mail)</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.MultipartFormData">
+            <summary>MIME Webform; Defined in RFC 2388</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationVndMozillaXulXml">
+            <summary>Mozilla XUL files</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.AudioMpeg">
+            <summary>MP3 or other MPEG audio; Defined in RFC 3003</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.AudioMp4">
+            <summary>MP4 audio</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.VideoMp4">
+            <summary>MP4 video; Defined in RFC 4337</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.VideoMpeg">
+            <summary>MPEG-1 video with multiplexed audio; Defined in RFC 2045 and RFC 2046</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ModelMesh">
+            <summary>MSH files, MESH files; Defined in RFC 2077, SILO files</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.AudioBasic">
+            <summary>mulaw audio at 8 kHz, 1 channel; Defined in RFC 2046</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.VideoOgg">
+            <summary>Ogg Theora or other video (with audio); Defined in RFC 5334</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.AudioOgg">
+            <summary>Ogg Vorbis, Speex, Flac and other audio; Defined in RFC 5334</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationOgg">
+            <summary>Ogg, a multimedia bitstream container format; Defined in RFC 5334</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationXopXml">
+            <summary>OP</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationVndOasisOpendocumentGraphics">
+            <summary>OpenDocument Graphics; Registered[14]</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationVndOasisOpendocumentPresentation">
+            <summary>OpenDocument Presentation; Registered[13]</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationVndOasisOpendocumentSpreadsheet">
+            <summary>OpenDocument Spreadsheet; Registered[12]</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationVndOasisOpendocumentText">
+            <summary>OpenDocument Text; Registered[11]</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationXPkcs12">
+            <summary>p12 files</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationXPkcs7Certificates">
+            <summary>p7b and spc files</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationXPkcs7Mime">
+            <summary>p7c files</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationXPkcs7Certreqresp">
+            <summary>p7r files</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationXPkcs7Signature">
+            <summary>p7s files</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationPdf">
+            <summary>Portable Document Format, PDF has been in use for document exchange on the Internet since 1993; Defined in RFC 3778</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ImagePng">
+            <summary>Portable Network Graphics; Registered,[8] Defined in RFC 2083</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationPostscript">
+            <summary>PostScript; Defined in RFC 2046</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.VideoQuicktime">
+            <summary>QuickTime video; Registered[10]</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationXRarCompressed">
+            <summary>RAR archive files</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.AudioVndRnRealaudio">
+            <summary>RealAudio; Documented in RealPlayer Customer Support Answer 2559</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationRdfXml">
+            <summary>Resource Description Framework; Defined by RFC 3870</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationRssXml">
+            <summary>RSS feeds</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationSoapXml">
+            <summary>SOAP; Defined by RFC 3902</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationXStuffit">
+            <summary>StuffIt archive files</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ImageSvgXml">
+            <summary>SVG vector image; Defined in SVG Tiny 1.2 Specification Appendix M</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ImageTiff">
+            <summary>Tag Image File Format (only for Baseline TIFF); Defined in RFC 3302</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationXTar">
+            <summary>Tarball files</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.TextPlain">
+            <summary>Textual data; Defined in RFC 2046 and RFC 3676</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationXFontTtf">
+            <summary>TrueType Font No registered MIME type, but this is the most commonly used</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.TextVcard">
+            <summary>vCard (contact information); Defined in RFC 6350</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.AudioVorbis">
+            <summary>Vorbis encoded audio; Defined in RFC 5215</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.AudioVndWave">
+            <summary>WAV audio; Defined in RFC 2361</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationFontWoff">
+            <summary>Web Open Font Format; (candidate recommendation; use application/x-font-woff until standard is official)</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.VideoWebm">
+            <summary>WebM Matroska-based open media format</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.AudioWebm">
+            <summary>WebM open media format</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.AudioXMsWax">
+            <summary>Windows Media Audio Redirector; Documented in Microsoft help page</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.AudioXMsWma">
+            <summary>Windows Media Audio; Documented in Microsoft KB 288102</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.VideoXMsWmv">
+            <summary>Windows Media Video; Documented in Microsoft KB 288102</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ModelVrml">
+            <summary>WRL files, VRML files; Defined in RFC 2077</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ModelX3DXml">
+            <summary>X3D ISO standard for representing 3D computer graphics, X3D XML files</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ModelX3DBinary">
+            <summary>X3D ISO standard for representing 3D computer graphics, X3DB binary files</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ModelX3DVrml">
+            <summary>X3D ISO standard for representing 3D computer graphics, X3DV VRML files</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationXhtmlXml">
+            <summary>XHTML; Defined by RFC 3236</summary>
+        </member>
+        <member name="F:NoopsycheEMSProductionManagementSystem.Net.MimeTypes.MimeTypeNames.ApplicationZip">
+            <summary>ZIP archive files; Registered[7]</summary>
+        </member>
+        <member name="T:NoopsycheEMSProductionManagementSystem.NoopsycheEMSProductionManagementSystemAppServiceBase">
+            <summary>
+            Derive your application services from this class.
+            </summary>
+        </member>
+    </members>
+</doc>

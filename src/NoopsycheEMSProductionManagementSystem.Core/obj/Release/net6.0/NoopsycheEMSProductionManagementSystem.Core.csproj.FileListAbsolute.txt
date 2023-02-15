@@ -1,0 +1,12 @@
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Core\bin\Release\net6.0\NoopsycheEMSProductionManagementSystem.Core.deps.json
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Core\bin\Release\net6.0\NoopsycheEMSProductionManagementSystem.Core.dll
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Core\bin\Release\net6.0\NoopsycheEMSProductionManagementSystem.Core.pdb
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Core\obj\Release\net6.0\NoopsycheEMSProductionManagementSystem.Core.csproj.AssemblyReference.cache
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Core\obj\Release\net6.0\NoopsycheEMSProductionManagementSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Core\obj\Release\net6.0\NoopsycheEMSProductionManagementSystem.Core.AssemblyInfoInputs.cache
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Core\obj\Release\net6.0\NoopsycheEMSProductionManagementSystem.Core.AssemblyInfo.cs
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Core\obj\Release\net6.0\NoopsycheEMSProductionManagementSystem.Core.csproj.CoreCompileInputs.cache
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Core\obj\Release\net6.0\NoopsycheEMSProductionManagementSystem.Core.dll
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Core\obj\Release\net6.0\refint\NoopsycheEMSProductionManagementSystem.Core.dll
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Core\obj\Release\net6.0\NoopsycheEMSProductionManagementSystem.Core.pdb
+D:\1A我的代码\7.3.0\aspnet-core\src\NoopsycheEMSProductionManagementSystem.Core\obj\Release\net6.0\ref\NoopsycheEMSProductionManagementSystem.Core.dll
